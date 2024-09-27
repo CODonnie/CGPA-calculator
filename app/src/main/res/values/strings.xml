@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">GPA Calculator</string>
+    <string name="grajos_gpa_calculator">\@Grajos GPA Calculator</string>
+    <string name="title">Grajos CGPA Calculator</string>
+    <string name="credit">Enter Course Credit</string>
+    <string name="grades">Enter Course Grade</string>
+    <string name="add_course">Add Course</string>
+    <string name="compute_gpa">Compute GPA</string>
+    <string name="result">Your</string>
+    <string name="erase">erase</string>
+
+    <string name="textTitle">STEP ONE</string>
+    <string name="step1">Input Unit for the current course.\n(Check your course form to be sure)</string>
+
+    <string name="textTitle2">STEP TWO</string>
+    <string name="step2">Input score as grade for the current course.\neach grade has an equivalent score.\n(A = 5), (B = 4),(C = 3), (D = 2), (E = 1), (F = 0)</string>
+
+    <string name="textTitle3">STEP THREE</string>
+    <string name="step3">Click "+" to add both fields.</string>
+
+    <string name="textTitle4">STEP FOUR</string>
+    <string name="step4">Repeat Step 1 to 3, to add all course.</string>
+
+    <string name="textTitle5">STEP FIVE</string>
+    <string name="step5">Click the "COMPUTE GPA" button to get the GPA calculation.\n(to be used after all course has being added)</string>
+
+    <string name="textTitle6">OUTPUTS</string>
+    <string name="step6">The GPA screen outputs the current semester\'s GPA\nThe CGPA screen outputs all computed semester\'s GPA</string>
+
+</resources>
